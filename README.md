@@ -1,4 +1,4 @@
 # DeepFake_MajorProject_Code
 
-Model Folder -> df_model.pt
-Make Processed_Videos folder
+Model -> df_model.pt
+
