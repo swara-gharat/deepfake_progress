@@ -1,0 +1,11 @@
+streamlit
+dlib
+torch
+torchvision
+opencv-python
+face-recognition
+face-recognition-models
+numpy
+Pillow
+scikit-image
+matplotlib

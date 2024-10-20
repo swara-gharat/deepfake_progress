@@ -1,0 +1,79 @@
+---- ExifTool ----
+ExifTool Version Number         : 12.97
+---- System ----
+File Name                       : tmp70bxq4_c
+Directory                       : C:/Users/Pranj/AppData/Local/Temp
+File Size                       : 172 kB
+File Modification Date/Time     : 2024:10:21 00:50:35+05:30
+File Access Date/Time           : 2024:10:21 00:50:35+05:30
+File Creation Date/Time         : 2024:10:21 00:50:35+05:30
+File Permissions                : -rw-rw-rw-
+---- File ----
+File Type                       : MP4
+File Type Extension             : mp4
+MIME Type                       : video/mp4
+---- QuickTime ----
+Major Brand                     : MP4 Base Media v1 [IS0 14496-12:2003]
+Minor Version                   : 0.2.0
+Compatible Brands               : isom, iso2, mp41
+Free                            : (Binary data 0 bytes, use -b option to extract)
+Media Data Size                 : 170767
+Media Data Offset               : 44
+Media Data                      : (Binary data 170767 bytes, use -b option to extract)
+Movie Header Version            : 0
+Create Date                     : 0000:00:00 00:00:00
+Modify Date                     : 0000:00:00 00:00:00
+Time Scale                      : 1000
+Duration                        : 4.93 s
+Preferred Rate                  : 1
+Preferred Volume                : 100.00%
+Matrix Structure                : 1 0 0 0 1 0 0 0 1
+Preview Time                    : 0 s
+Preview Duration                : 0 s
+Poster Time                     : 0 s
+Selection Time                  : 0 s
+Selection Duration              : 0 s
+Current Time                    : 0 s
+Next Track ID                   : 2
+Handler Type                    : Metadata
+Handler Vendor ID               : Apple
+---- Track1 ----
+Track Header Version            : 0
+Track Create Date               : 0000:00:00 00:00:00
+Track Modify Date               : 0000:00:00 00:00:00
+Track ID                        : 1
+Track Duration                  : 4.93 s
+Track Layer                     : 0
+Track Volume                    : 0.00%
+Matrix Structure                : 1 0 0 0 1 0 0 0 1
+Image Width                     : 112
+Image Height                    : 112
+Unknown edts                    : (Binary data 28 bytes, use -b option to extract)
+Media Header Version            : 0
+Media Create Date               : 0000:00:00 00:00:00
+Media Modify Date               : 0000:00:00 00:00:00
+Media Time Scale                : 15360
+Media Duration                  : 4.93 s
+Media Language Code             : und
+Handler Type                    : Video Track
+Handler Description             : VideoHandler
+Graphics Mode                   : srcCopy
+Op Color                        : 0 0 0
+Compressor ID                   : mp4v
+Source Image Width              : 112
+Source Image Height             : 112
+X Resolution                    : 72
+Y Resolution                    : 72
+Bit Depth                       : 24
+Unknown esds                    : (Binary data 36 bytes, use -b option to extract)
+Video Frame Rate                : 30
+Sample To Chunk                 : (Binary data 20 bytes, use -b option to extract)
+Sample Sizes                    : (Binary data 604 bytes, use -b option to extract)
+Chunk Offset                    : (Binary data 12 bytes, use -b option to extract)
+---- ItemList ----
+Encoder                         : Lavf58.35.100
+---- Composite ----
+Image Size                      : 112x112
+Megapixels                      : 0.013
+Avg Bitrate                     : 277 kbps
+Rotation                        : 0
